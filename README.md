@@ -35,7 +35,7 @@ root/
 ## 🧪 Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/yourusername/Image_To_Search_Fashion_Ecomm.git
+git clone https://github.com/rajanptl-9/Image_To_Search_Fashion_Ecomm.git
 cd Image_To_Search_Fashion_Ecomm
 
 ### 2. Start the ML Server
